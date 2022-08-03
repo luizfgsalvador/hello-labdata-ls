@@ -25,7 +25,7 @@ d = { 'settings': { 'audience': 'Developers',
                 'title': 'hello_labdata_ls',
                 'tst_flags': 'notest',
                 'user': 'luizfgsalvador',
-                'version': '0.0.1'},
+                'version': '0.0.4'},
   'syms': { 'hello_labdata_ls\\core': {'hello_labdata_ls\\core.hello': 'https://luizfgsalvador.github.io/hello_labdata_ls/hello_labdata_ls\\core.html#hello'},
             'hello_labdata_ls\\greetings': { 'hello_labdata_ls\\greetings.hello': 'https://luizfgsalvador.github.io/hello_labdata_ls/hello_labdata_ls\\greetings.html#hello'},
             'hello_labdata_ls\\jokes': { 'hello_labdata_ls\\jokes.qual_time_nao_tem_mundial': 'https://luizfgsalvador.github.io/hello_labdata_ls/hello_labdata_ls\\jokes.html#qual_time_nao_tem_mundial'}}}
