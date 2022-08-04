@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "greetings.html",
+    "href": "greetings.html",
+    "title": "Greetings",
+    "section": "",
+    "text": "hello\n\n hello (to)\n\nComo Utilizar\n\nhello(to =\"Luiz\")\n\n'Hi Luiz!'"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "hello_labdata_ls",
+    "section": "",
+    "text": "Como instalar"
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "hello_labdata_ls",
+    "section": "Install",
+    "text": "Install\npip install hello_labdata_ls"
+  },
+  {
+    "objectID": "index.html#como-usar",
+    "href": "index.html#como-usar",
+    "title": "hello_labdata_ls",
+    "section": "Como usar",
+    "text": "Como usar\nFill me in please! Don’t forget code examples:\n\nto = 'Luiz'\nhello(to)\n\n'Hi Luiz!'"
+  },
+  {
+    "objectID": "jokes.html",
+    "href": "jokes.html",
+    "title": "Jokes",
+    "section": "",
+    "text": "qual_time_nao_tem_mundial\n\n qual_time_nao_tem_mundial ()\n\nComo Utilizar\n\nqual_time_nao_tem_mundial()\n\n'Palmeiras'"
+  }
+]
